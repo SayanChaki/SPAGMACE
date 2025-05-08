@@ -17,15 +17,10 @@ cp build/lib/bbox.so .
 
 ## Datasets
 ### CLEVRTEX dataset
-[link](https://drive.google.com/file/d/1BIzWAExc0NDSF_a6RnTvfBMvbXhTAns5/view?usp=sharing)
-The dataset is generated from a modified version of [MultiDigitMNIST](https://github.com/yonkshi/MultiDigitMNIST).
+[link]([https://drive.google.com/file/d/1BIzWAExc0NDSF_a6RnTvfBMvbXhTAns5/view?usp=sharing](https://github.com/karazijal/clevrtex))
 
 ### CLEVR dataset
-[train images](https://drive.google.com/file/d/1MCXo6VRI6Pf8WG2-dHbPNCJZVKOpNoHX/view?usp=sharing)
-[train annotations](https://drive.google.com/file/d/1wbidjghjwLracHq8HRZ-zidWIE0R4xSV/view?usp=sharing)
-[test images](https://drive.google.com/file/d/11BDgxjnZ7wXwCPFksL4rHIthuddhLWUW/view?usp=sharing)
-[test annotations](https://drive.google.com/file/d/13Y5ZRu5ojspYOI0Ku1nJ0tu1lPbFrlZa/view?usp=sharing)
-
+[link][https://github.com/facebookresearch/clevr-dataset-gen)
 Note that annotations are only used for evaluation.
 
 
